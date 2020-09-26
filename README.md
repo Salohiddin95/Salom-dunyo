@@ -1,2 +1,3 @@
 # Salom-dunyo
-Yangi dunyoga kirish
+Salom do'stlar.
+Men dasturlashga endi kirob kelyabman
